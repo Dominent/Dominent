@@ -35,6 +35,7 @@
 | **Mobile** | React Native · Expo · BLE protocols (Walltopia) |
 | **Browser extensions** | Manifest V3 · service workers · content scripts (MAIN world) · tabCapture / desktopCapture · 2 yrs on Insight Draft's Chrome Web Store extension |
 | **Certifications** | Scrum Alliance · Certified Scrum Master (Dec 2023) |
+| **Education** | TU Sofia · BSc Industrial Engineering · Telerik Academy |
 
 ## What past colleagues say
 
