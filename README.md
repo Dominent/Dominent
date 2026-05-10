@@ -19,7 +19,7 @@
 
 ## Selected work
 
-- **[Insight Draft](https://app.insightdraft.com)** — solo-built AI meeting SaaS. [Chrome Web Store extension](https://chromewebstore.google.com/detail/insight-draft-ai-meeting/ljdgclmpndcckebbncgafkcnnnallbnm) (Manifest V3, 2 yrs) records Meet/Teams/Zoom without bots joining. Real-time Deepgram transcription, RAG-grounded Q&A with verified citations, multi-LLM orchestration (GPT-5-mini + Claude 3.5), Hangfire background jobs, .NET 8 + Angular 21.
+- **[Insight Draft](https://app.insightdraft.com)** — production AI meeting SaaS, engineering led solo within a two-person founding team. [Chrome Web Store extension](https://chromewebstore.google.com/detail/insight-draft-ai-meeting/ljdgclmpndcckebbncgafkcnnnallbnm) (Manifest V3, 2 yrs) records Meet/Teams/Zoom without bots joining. Deepgram speaker-attributed transcription, RAG-grounded Q&A with verifiable citations, multi-model OpenAI orchestration via the Responses API with strict structured outputs, Hangfire background jobs, .NET 8 + Angular 17.
 - **[Gramota](https://gramota.eu)** — EU Digital Identity Wallet SDK. eIDAS 2 compliant, OID4VP Final 1.0 + OID4VCI Draft 15, DPoP, X.509 per-org certificate management, 12+ published npm packages with provenance.
 - **CData Virtuality Platform** — solo-built Cursor-style SQL AI copilot inside the platform. Q3 2025 release, demoed at Gartner D&A Summit 2025. Co-built "Talk to your Data" (NL→SQL with semantic vector DB + Virtual SQL engine).
 
