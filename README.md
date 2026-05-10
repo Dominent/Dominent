@@ -34,6 +34,7 @@
 | **Cloud & tooling** | AWS (S3, CloudWatch) · Azure DevOps · Docker · Jenkins · Vercel |
 | **Mobile** | React Native · Expo · BLE protocols (Walltopia) |
 | **Browser extensions** | Manifest V3 · service workers · content scripts (MAIN world) · tabCapture / desktopCapture · 2 yrs on Insight Draft's Chrome Web Store extension |
+| **Certifications** | Scrum Alliance · Certified Scrum Master (Dec 2023) |
 
 ## What past colleagues say
 
