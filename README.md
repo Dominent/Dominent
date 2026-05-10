@@ -33,6 +33,7 @@
 | **Identity & payments** | Duende IdentityServer · OAuth 2.0 / OIDC · OID4VP / OID4VCI · eIDAS 2 · Stripe · X.509 PKI |
 | **Cloud & tooling** | AWS (S3, CloudWatch) · Azure DevOps · Docker · Jenkins · Vercel |
 | **Mobile** | React Native · Expo · BLE protocols (Walltopia) |
+| **Browser extensions** | Manifest V3 · service workers · content scripts (MAIN world) · tabCapture / desktopCapture · 2 yrs on Insight Draft's Chrome Web Store extension |
 
 ## What past colleagues say
 
