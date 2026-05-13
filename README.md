@@ -4,7 +4,7 @@
 
 10+ years shipping production software at **VMware**, **CData Virtuality**, **TestGorilla**, **Walltopia**, and **Octopus Energy Germany**. Most recently on the AI research team at CData Virtuality — shipping RAG, NL→SQL, and a Cursor-style SQL copilot into the platform.
 
-**[petropavlov.dev](https://petropavlov.dev)** — portfolio, projects, and an AI assistant grounded in my CV that you can ask anything.
+**[petropavlov.dev](https://petropavlov.dev?utm_source=github&utm_medium=profile)** — portfolio, projects, and an AI assistant grounded in my CV that you can ask anything.
 
 [petromilpavlov@gmail.com](mailto:petromilpavlov@gmail.com)  ·  [Book a 20-min intro](https://cal.com/petropavlov/intro)  ·  [LinkedIn](https://www.linkedin.com/in/petro-p-insight-draft/)
 
@@ -45,8 +45,8 @@
 > _"His ability to break down complex problems and get to the real root cause is genuinely impressive… he doesn't just spot the right answer, he turns it into real progress."_
 > — **Francesco Lisandro**, AI Founder · worked with Petro on the same team
 
-More on the [portfolio](https://petropavlov.dev/#testimonials).
+More on the [portfolio](https://petropavlov.dev/?utm_source=github&utm_medium=profile#testimonials).
 
 ---
 
-<sub>This profile and [petropavlov.dev](https://petropavlov.dev) are open source — site source at [Dominent/petropavlov-com](https://github.com/Dominent/petropavlov-com).</sub>
+<sub>This profile and [petropavlov.dev](https://petropavlov.dev?utm_source=github&utm_medium=profile) are open source — site source at [Dominent/petropavlov-com](https://github.com/Dominent/petropavlov-com).</sub>
